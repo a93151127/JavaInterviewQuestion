@@ -1,4 +1,4 @@
-package com.martin.question.characteristic;
+package com.martin.question1.question1.characteristic;
 
 public class Inheritance {
     public static void main(String[] args) {

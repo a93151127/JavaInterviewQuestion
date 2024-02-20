@@ -1,6 +1,6 @@
-package com.martin.question.protectedB;
+package com.martin.question1.question1.protectedB;
 
-import com.martin.question.protectedA.AnimalA;
+import com.martin.question1.question1.protectedA.AnimalA;
 
 public class AnimalB extends AnimalA{
 

@@ -1,4 +1,4 @@
-package com.martin.question.protectedA;
+package com.martin.question1.question1.protectedA;
 
 public class AnimalA {
 
